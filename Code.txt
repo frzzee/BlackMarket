@@ -1,0 +1,367 @@
+nav = {
+      {
+          '• Kizuna AI Fack (-$666)',
+          ':SNC12',
+      },
+      {
+          '• Founders Pack ($4.99)',
+          ':SNC01',
+      },
+      {
+          '• Days Of Feast Pack ($6.99)',
+          ':SNC03',
+      },
+      {
+          '• Spooky Bat Cape ($17.99)',
+          ':SNC05',
+      },
+      {
+          '• Hungry Pumpkin Hat ($11.99)',
+          ':SNC06',
+      },
+      {
+          '• Gratitude Fur Cape ($19.99)',
+          ':SNC07',
+      },
+      {
+          '• Days Of Love Pack ($19.99)',
+          ':SNC08',
+      },
+      {
+          '• Earth Cape ($4.99)',
+          ':SNC09',
+      },
+      {
+          '• Healing Pack ($19.99)',
+          ':SNC10',
+      },
+      {
+          '• Lantern Pack ($19.99)',
+          ':SNC13',
+      },
+      {
+          '• Mischief Witch Hat ($9.99)',
+          ':SNC14',
+      },
+      {
+          '• Mischief Web Cape ($14.99)',
+          ':SNC15',
+      },
+      {
+          '• Days Of Feast Horns ($14.99)',
+          ':SNC17',
+      },
+      {
+          '• Snowflake Cape ($14.99)',
+          ':SNC18',
+      },
+      {
+          '• Days Of Fortune Orange ($0.99)',
+          ':SNC19',
+      },
+      {
+          '• Wool Hat ($9.99)',
+          ':SNC20',
+      },
+      {
+          '• Days Of Fortune Pack ($24.99)',
+          ':SNC21',
+      },
+      {
+          '• Seesaw Pack ($19.99)',
+          ':SNC22',
+      },
+      {
+          '• Bloom Teaset ($19.99)',
+          ':SNC23',
+      },
+      {
+          '• Ocean Necklace ($1.99)',
+          ':SNC24',
+      },
+      {
+          '• Ocean Cape ($14.99)',
+          ':SNC25',
+      },
+      {
+          '• Rainbow Hair Pack ($19.99)',
+          ':SNC27',
+      },
+      {
+          '• Rainbow Hat ($9.99)',
+          ':SNC28',
+      },
+      {
+          '• Summer Umbrella ($9.99)',
+          ':SNC33',
+      },
+      {
+          '• Seashell Hairpin ($0.99)',
+          ':SNC34',
+      },
+      {
+          '• Bunny Accesories ($2.99)',
+          ':SNC35',
+      },
+      {
+          '• Misch Withered Antlers ($9.99)',
+          ':SNC36',
+      },
+      {
+          '• Mischief Witch Jumper ($9.99)',
+          ':SNC37',
+      },
+      {
+          '• Mischief Spider Quiff ($4.99)',
+          ':SNC38',
+      },
+      {
+          '• Mischief Pumpkin Prop ($1.99)',
+          ':SNC39',
+      },
+      {
+          '• Winter Feast Snowglobe ($9.99)',
+          ':SNC40',
+      },
+      {
+          '• Winter Ancestor Cape ($9.99)',
+          ':SNC41',
+      },
+      {
+          '• Snowflake Hair Acc ($1.99)',
+          ':SNC42',
+      },
+      {
+          '• Fish Accessories ($1.99)',
+          ':SNC43',
+      },
+      {
+          '• Fortune Fish Pack ($19.99)',
+          ':SNC44',
+      },
+      {
+          '• Gondola Pack ($19.99)',
+          ':SNC45',
+      },
+      {
+          '• Purple Bloom Teaset ($19.99)',
+          ':SNC46',
+      },
+      {
+          '• Nature Turtle Pack ($19.99)',
+          ':SNC47',
+      },
+      {
+          '• Nature Turtle Cape ($14.99)',
+          ':SNC48',
+      },
+      {
+          '• Rainbow Earring ($9.99)',
+          ':SNC49',
+      },
+      {
+          '• Triumph Handpan ($19.99)',
+          ':SNC51',
+      },
+      {
+          '• TGC Guitar Pack ($29.99)',
+          ':SNC54',
+      },
+      {
+          '• Rainbow Flowers Pack ($9.99)',
+          ':SNC55',
+      },
+      {
+          '• Rhytm Guitar ($14.99)',
+          ':SNC56',
+      },
+      {
+          '• Fledgling Harp ($4.99)',
+          ':SNC57',
+      },
+      {
+          '• Rainbow Headphone ($9.99)',
+          ':SNC58',
+      },
+      {
+          '• Campfire Snack ($19.99)',
+          ':SNC59',
+      },
+      {
+          '• Jelly Shoulder Budd ($2.99)',
+          ':SNC60',
+      },
+      {
+          '• Cat Costume Pack ($19.99)',
+          ':SNC61',
+      },
+      {
+          '• Feline Familiar Prop ($9.99)',
+          ':SNC62',
+      },
+      {
+          '• Tiara We Can Touch ($4.99)',
+          ':SNC63',
+      },
+      {
+          '• Runaway Hair ($2.99)',
+          ':SNC64',
+      },
+      {
+          '• Voice Of AURORA ($14.99)',
+          ':SNC65',
+      },
+      {
+          '• To The Love Outfit ($9.99)',
+          ':SNC66',
+      },
+      {
+          '• Giving In Cape ($14.99)',
+          ':SNC67',
+      },
+      {
+          '• Wings Of AURORA ($24.99)',
+          ':SNC68',
+      },
+      {
+          '• Runaway Outfit ($9.99)',
+          ':SNC69',
+      },
+      {
+          '• Turnament Skyball Set ($14.99)',
+          ':SNC73',
+      },
+      {
+          '• Enchanted Umbrella ($14.99)',
+          ':SNC74',
+      },
+      {
+          '• Muralists Smock ($9.99)',
+          ':SNC75',
+      },
+      {
+          '• Cozy Hermit Cape ($14.99)',
+          ':SNC76',
+      },
+      {
+          '• Serendipitous Scepter ($14.99)',
+          ':SNC77',
+      },
+      {
+          '• Classy Caravat ($4.99)',
+          ':SNC79',
+      },
+      {
+          '• Bloom Picnic Basket ($19.99)',
+          ':SNC80',
+      },
+      {
+          '• Bloom Gardenic Tunic ($9.99)',
+          ':SNC81',
+      },
+      {
+          '• Nature Glasses Pack ($19.99)',
+          ':SNC82',
+      },
+      {
+          '• Soronous Seashell ($4.99)',
+          ':SNC83',
+      },
+      {
+          '• Dark Rainbow Pack ($9.99)',
+          ':SNC84',
+      },
+      {
+          '• Dark Rainbow Tunic ($14.99)',
+          ':SNC85',
+      },
+      {
+          '• Triumph Violin ($19.99)',
+          ':SNC86',
+      },
+      {
+          '• Anniversary Plush ($9.99)',
+          ':SNC87',
+      },
+      {
+          '• Voyage Sneakers ($6.99)',
+          ':SNC88',
+      },
+      {
+          '• Sunlight Surfboard ($14.99)',
+          ':SNC89',
+      },
+      {
+          '• Chunky Sandals ($9.99)',
+          ':SNC90',
+      },
+      {
+          '• Style Wide-leg Jeans ($9.99)',
+          ':SNC91',
+      },
+      {
+          '• Style Flame Sunglasses ($2.99)',
+          ':SNC92',
+      },
+      {
+          '• Style Heart Sunglasses ($4.99)',
+          ':SNC93',
+      },
+      {
+          '• Style Bunny Slippers ($6.99)',
+          ':SNC95',
+      },
+      {
+          '• Misc Gossamer Cape ($14.99)',
+          ':SNC96',
+      },
+      {
+          '• Misc Crabula Mask ($2.99)',
+          ':SNC97',
+      },
+      {
+          '• Misc Crabula Cloak ($14.99)',
+          ':SNC98',
+      },
+      {
+          '• Moth Appreciation Pack ($9.99)',
+          ':SNC99',
+      },
+      {
+          '• Sparrow Appreciation Pack ($9.99)',
+          ':SNC100',
+      },
+      {
+          '• Cozy Hermit Boots ($6.99)',
+          ':SNC101',
+      },
+      {
+          '• Winter Quilted Cape ($14.99)',
+          ':SNC102',
+      },
+      {
+          '• Fortune Dragon Vestment ($?)',
+          ':SNC103',
+      },
+      {
+          '• Fortune Dragon Stole ($?)',
+          ':SNC104',
+      },
+      {
+          '• Fortune Dragon Bangles ($?)',
+          ':SNC105',
+      },
+      {
+          '• Meteor Mantle ($?)',
+          ':SNC106',
+      },
+      {
+          '• Gift Nine-Colored Deer ($?)',
+          ':SNC107',
+      },
+      {
+          '• Radiance Nine-Colored Deer ($?)',
+          ':SNC108',
+      }
+
+}
